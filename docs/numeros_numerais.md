@@ -29,10 +29,13 @@ No entanto, quando houver um número a partir de 11 no início de uma legenda qu
 
 0:17 - 0:20
 Dez mil quilômetros de estradas,
+
 0:20 - 0:22
 mil quilômetros de trilhos de metrô,
+
 0:22 - 0:24
 650 quilômetros de ciclovias,
+
 0:24 - 0:26
 e 800 metros de bonde elétrico
 
