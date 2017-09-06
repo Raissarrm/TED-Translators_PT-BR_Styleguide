@@ -23,6 +23,19 @@ Quando houver números a partir de 11 em início de frase, escreva-os por extens
 
 > "Quinze pessoas se salvaram/foram salvas. Ou: Salvaram-se 15 pessoas/Salvaram 15 pessoas."
 
+
+No entanto, quando houver um número a partir de 11 no início de uma legenda que for a continuação de uma frase iniciada na legenda anterior, mantenha o algarismo, como é o caso do número 650 no exemplo abaixo:
+
+
+0:17 - 0:20
+Dez mil quilômetros de estradas,
+0:20 - 0:22
+mil quilômetros de trilhos de metrô,
+0:22 - 0:24
+650 quilômetros de ciclovias,
+0:24 - 0:26
+e 800 metros de bonde elétrico
+
 ## Milhares, milhões, bilhões, trilhões, etc.
 
 A partir de mil, para facilitar a leitura, escreva sempre "mil", "milhões", "bilhões" e "trilhões", deixando a primeira parte em algarismos. Não use "1 mil", apenas "mil". Por exemplo:
